@@ -18,14 +18,18 @@ Repositorio del proyecto:
 
 ## 📷 Imágenes del proyecto
 
-![Vista del catálogo de guitarras](https://github.com/fremontano/guitar-store-app/blob/eb566bf11cb97927df6a57442ed55d0d11736b45/image1.png)  
-*Explora la colección de guitarras disponibles en la tienda. con almacenamiento en localstorage y persistencia de datos*
+<div align="center">
 
-![Carrito de compras](https://github.com/fremontano/guitar-store-app/blob/eb566bf11cb97927df6a57442ed55d0d11736b45/image2.png)  
-*Muestra el carrito con las guitarras agregadas y opciones para modificar cantidades o eliminar productos.*
+<img src="https://github.com/fremontano/guitar-store-app/blob/eb566bf11cb97927df6a57442ed55d0d11736b45/image1.png" alt="Vista del catálogo de guitarras" width="100%" height="500px">
+<p>Explora la colección de guitarras disponibles en la tienda, con almacenamiento en localStorage y persistencia de datos.</p>
 
-![Interfaz responsiva](https://github.com/fremontano/guitar-store-app/blob/eb566bf11cb97927df6a57442ed55d0d11736b45/image3.png)  
-*Muetra de las guitrras responsiva de la aplicación en dispositivos móviles y de escritorio.*
+<img src="https://github.com/fremontano/guitar-store-app/blob/eb566bf11cb97927df6a57442ed55d0d11736b45/image2.png" alt="Carrito de compras" width="100%" height="500px">
+<p>Muestra el carrito con las guitarras agregadas y opciones para modificar cantidades o eliminar productos.</p>
+
+<img src="https://github.com/fremontano/guitar-store-app/blob/eb566bf11cb97927df6a57442ed55d0d11736b45/image3.png" alt="Interfaz responsiva" width="100%" height="500px">
+<p>Muestra las guitarras de forma responsiva en dispositivos móviles y de escritorio.</p>
+
+</div>
 
 ---
 
